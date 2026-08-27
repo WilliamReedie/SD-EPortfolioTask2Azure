@@ -1,0 +1,34 @@
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\appsettings.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.staticwebassets.runtime.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.staticwebassets.endpoints.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.exe
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.deps.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.runtimeconfig.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.dll
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\bin\Debug\net8.0\Local Sums.pdb
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.AssemblyInfo.cs
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.RazorAssemblyInfo.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.RazorAssemblyInfo.cs
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.sourcelink.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\scopedcss\bundle\Local Sums.styles.css
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\scopedcss\projectbundle\Local Sums.bundle.scp.css
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.dll
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\refint\Local Sums.dll
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.pdb
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\Local Sums.genruntimeconfig.cache
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Debug\net8.0\ref\Local Sums.dll
