@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\models\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\models\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\local sums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\local sums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|c:\\users\\willi\\documents\\github\\sd\u0026eportfoliotask2azure\\local sums\\local sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB59AFE-87EB-4133-85EE-5A9C96322FE8}|Local Sums\\Local Sums.csproj|solutionrelative:local sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -19,7 +44,7 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,6 +53,83 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Local Sums\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Local Sums\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T10:29:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Local Sums",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Local Sums.csproj",
+              "RelativeDocumentMoniker": "Local Sums\\Local Sums.csproj",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Local Sums.csproj",
+              "RelativeToolTip": "Local Sums\\Local Sums.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-28T09:50:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Local Sums\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Local Sums\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAANYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:48:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Local Sums\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Local Sums\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T09:47:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Program.cs",
+              "RelativeDocumentMoniker": "Local Sums\\Program.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Program.cs",
+              "RelativeToolTip": "Local Sums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:46:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Models\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Local Sums\\Models\\Puzzle.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GitHub\\SD\u0026EPortfolioTask2Azure\\Local Sums\\Local Sums\\Models\\Puzzle.cs",
+              "RelativeToolTip": "Local Sums\\Models\\Puzzle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:45:38.836Z",
+              "EditorCaption": ""
             }
           ]
         }

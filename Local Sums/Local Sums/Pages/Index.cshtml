@@ -5,6 +5,56 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Local Sums</h1>
+
+    @if (Model.YouWin)
+    {
+        <h1 style="font-size:3rem; color:green; margin-top:1rem;">You Win!</h1>
+
+        <form method="post" asp-page-handler="NewGame" style="margin-top:1rem;">
+            <button type="submit" class="btn btn-primary">New game</button>
+        </form>
+    }
+    else
+    {
+        <p>Hint:</p>
+        <p>@Model.Message</p>
+
+        <form method="post">
+            <input type="hidden" asp-for="HintSerialized" />
+            <input type="hidden" asp-for="CorrectGuessesSerialized" />
+
+            <div class="form-group" style="margin-top:1rem;">
+                <label asp-for="GuessInput">Enter guess (5 numbers between 1 and 3):</label>
+                <input asp-for="GuessInput" class="form-control" />
+            </div>
+
+            <div style="margin-top:0.5rem;">
+                <button type="submit" class="btn btn-primary">Submit Guess</button>
+                <button type="submit" formaction="?handler=NewGame" formmethod="post" class="btn btn-secondary" style="margin-left:8px;">New game</button>
+            </div>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model.InputError))
+        {
+            <div class="text-danger" style="margin-top:0.75rem;">@Model.InputError</div>
+        }
+
+        <div style="margin-top:1.5rem; text-align:left;">
+            <h4>Correct Answers:</h4>
+            @if (Model.CorrectGuessesDisplay != null && Model.CorrectGuessesDisplay.Count > 0)
+            {
+                <ul>
+                    @foreach (var g in Model.CorrectGuessesDisplay)
+                    {
+                        <li>@g</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p><em>No correct answers yet.</em></p>
+            }
+        </div>
+    }
 </div>
