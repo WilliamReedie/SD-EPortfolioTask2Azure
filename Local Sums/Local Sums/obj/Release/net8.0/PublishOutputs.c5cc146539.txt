@@ -1,0 +1,7 @@
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\Local Sums.exe
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\Local Sums.dll
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\Local Sums.deps.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\Local Sums.runtimeconfig.json
+C:\Users\willi\Documents\GitHub\SD&EPortfolioTask2Azure\Local Sums\Local Sums\obj\Release\net8.0\PubTmp\Out\Local Sums.pdb
